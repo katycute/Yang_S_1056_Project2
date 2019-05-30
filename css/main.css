@@ -1,3 +1,50 @@
 @charset "utf-8";
 /* CSS Document */
+body {font-family: 'Sarala', sans-serif;}
+
+#text {
+	width: 700px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 34px;
+	color: #337F45;
+	letter-spacing: 1px;	
+}
+
+h3 {
+	font-weight: 700;
+	font-size: 14px;
+	color: #869F80;
+}
+
+.img {
+	float: left;
+	margin-right: 20px;
+	padding: 0;
+}
+
+figcaption {
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	color: #759779;
+}
+
+p { 
+	color: #2C5732;
+	font-size: 17px;
+	line-height: 28px;
+	font-weight: 300;
+}
+
+.big-letter {
+	font-size: 100px;
+	font-weight: 400;
+	line-height: 70px;
+	float: left;
+	margin: 5px 10px 0 0;
+}
 
